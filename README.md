@@ -1,5 +1,15 @@
-### Hi there 👋
-I am [Waldocat:octocat:](https://octodex.github.com/wheres-waldocat/)
+## Hi there👋
+I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below is some of them:
+
+### Projects: 
+* [**EmailThing**](https://emalthing.xyz): A web app for receiving and sending your emails!
+* [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun!
+* [**Forms**](https://github.com/RiskyMH/Forms): A random form site!
+* [**Stats Compare**](https://stats.riskymh.dev): Compare statistics!
+
+### Tools:
+* [**aws-sdk**](https://github.com/RiskyMH/aws-sdk): Custom SDK and Types for AWS services (ie S3 and by extension R2)!
+
 
 <!--
 **RiskyMH/RiskyMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

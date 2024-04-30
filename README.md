@@ -2,7 +2,7 @@
 I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below is some of them:
 
 ### Projects: 
-* [**EmailThing**](https://emalthing.xyz): A web app for receiving and sending your emails!
+* [**EmailThing**](https://emailthing.xyz/home): A web app for receiving and sending your emails!
 * [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun!
 * [**Forms**](https://github.com/RiskyMH/Forms): A random form site!
 * [**Stats Compare**](https://stats.riskymh.dev): Compare statistics!

@@ -6,6 +6,7 @@ I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below
 * [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun!
 * [**Forms**](https://github.com/RiskyMH/Forms): A random form site!
 * [**Stats Compare**](https://stats.riskymh.dev): Compare statistics!
+* [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects)
 
 ### Tools:
 * [**aws-sdk**](https://github.com/RiskyMH/aws-sdk): Custom SDK and Types for AWS services (ie S3 and by extension R2)!

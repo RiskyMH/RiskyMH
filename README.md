@@ -11,6 +11,7 @@ I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below
 
 ### Tools:
 * [**aws-sdk**](https://github.com/RiskyMH/aws-sdk): Custom SDK and Types for AWS services (ie S3 and by extension R2)! [:octocat:](https://github.com/RiskyMH/aws-sdk)
+* [**dbcat**](https://www.npmjs.com/dbcat): Simple Bun.sql wrapper so you can use bunx to see your database! [:octocat:](https://github.com/RiskyMH/dbcat)
 
 
 <!--

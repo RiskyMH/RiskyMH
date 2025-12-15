@@ -7,6 +7,7 @@ I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below
 * [**Forms**](https://github.com/RiskyMH/Forms): A random form site! [:octocat:](https://github.com/RiskyMH/Forms)
 * [**Stats Compare**](https://stats.riskymh.dev): Compare statistics! [:octocat:](https://github.com/RiskyMH/Stats)
 * [**Chatroom**](https://chatroom.riskymh.dev): A stateless websocket chat place! [:octocat:](https://github.com/RiskyMH/Chatroom)
+* [**Honeypot**](https://discord.com/oauth2/authorize?client_id=1450060292716494940): A discord bot which bans people that message in its channel! [:octocat:](https://github.com/RiskyMH/honeypot)
 * [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects)
 
 ### Tools:

@@ -1,19 +1,19 @@
-## Hi there👋
+## Hi there 👋
 I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below is some of them:
 
 ### Projects: 
-* [**EmailThing**](https://emailthing.app/home): A web app for receiving and sending your emails! [:octocat:](https://github.com/RiskyMH/EmailThing)
-* [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun! [:octocat:](https://github.com/RiskyMH/RiskyBOT)
-* [**Forms**](https://github.com/RiskyMH/Forms): A random form site! [:octocat:](https://github.com/RiskyMH/Forms)
-* [**Stats Compare**](https://stats.riskymh.dev): Compare statistics! [:octocat:](https://github.com/RiskyMH/Stats)
-* [**Chatroom**](https://chatroom.riskymh.dev): A stateless websocket chat place! [:octocat:](https://github.com/RiskyMH/Chatroom)
-* [**Honeypot**](https://discord.com/oauth2/authorize?client_id=1450060292716494940): A discord bot which bans people that message in its channel! [:octocat:](https://github.com/RiskyMH/honeypot)
-* [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects)
+* [**EmailThing**](https://emailthing.app/home): A web app for receiving and sending your emails! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/EmailThing "GitHub Repo")
+* [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/RiskyBOT "GitHub Repo")
+* [**Forms**](https://github.com/RiskyMH/Forms): A random form site! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Forms "GitHub Repo")
+* [**Stats Compare**](https://stats.riskymh.dev): Compare statistics! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Stats "GitHub Repo")
+* [**Chatroom**](https://chatroom.riskymh.dev): A stateless websocket chat place! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Chatroom "GitHub Repo")
+* [**Honeypot**](https://discord.com/oauth2/authorize?client_id=1450060292714494940): A discord bot which bans people that message in its channel! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/honeypot "GitHub Repo")
+* [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects "See more of my projects!")
 
 ### Tools:
-* [**aws-sdk**](https://github.com/RiskyMH/aws-sdk): Custom SDK and Types for AWS services (ie S3 and by extension R2)! [:octocat:](https://github.com/RiskyMH/aws-sdk)
-* [**dbcat**](https://www.npmjs.com/dbcat): Simple Bun.sql wrapper so you can use bunx to see your database! [:octocat:](https://github.com/RiskyMH/dbcat)
-
+* [**aws-sdk**](https://github.com/RiskyMH/aws-sdk): Custom SDK and Types for AWS services (ie S3 and by extension R2)! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/aws-sdk "GitHub Repo")
+* [**dbcat**](https://www.npmjs.com/package/dbcat): Simple Bun.sql wrapper so you can use bunx to see your database! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/dbcat "GitHub Repo")
+* Bonus points: [`curl riskymh.dev`](https://riskymh.dev "Run 'curl riskymh' in your terminal") & [`bunx riskymh`](https://npmjs.com/package/riskymh "Run 'npx riskymh' in your terminal")
 
 <!--
 **RiskyMH/RiskyMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

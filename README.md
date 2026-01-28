@@ -8,7 +8,7 @@ I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below
 * [**Forms**](https://github.com/RiskyMH/Forms): A random form site! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Forms "GitHub Repo")
 * [**Stats Compare**](https://stats.riskymh.dev): A fun way to compare statistics! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Stats "GitHub Repo")
 * [**Chatroom**](https://chatroom.riskymh.dev): A stateless websocket chat place! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/Chatroom "GitHub Repo")
-* [**Honeypot**](https://discord.com/oauth2/authorize?client_id=1450060292714494940): A discord bot which bans people that message in its channel! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/honeypot "GitHub Repo")
+* [**Honeypot**](https://discord.com/discovery/applications/1450060292716494940): A discord bot which bans people that message in its channel! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/honeypot "GitHub Repo")
 * [**Bun Docs**](https://bun-docs.vercel.app/docs): A better docs site for Bun's docs that looks nicer! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/RiskyMH/bun-docs "GitHub Repo")
 * [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects "See more of my projects!")
 

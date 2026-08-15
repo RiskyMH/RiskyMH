@@ -10,6 +10,7 @@ I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below
 * [**Stats Compare**](https://stats.riskymh.dev): A fun way to compare statistics! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/Stats "GitHub Repo")
 * [**Chatroom**](https://chatroom.riskymh.dev): A stateless websocket chat place! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/Chatroom "GitHub Repo")
 * [**Bun Docs**](https://bun-docs.vercel.app/docs): A better docs site for Bun's docs that looks nicer! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/bun-docs "GitHub Repo")
+* [**The Fire Bot**](https://github.com/RiskyMH/the-fire-bot): A discord bot that does fun features for my server! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/the-fire-bot "GitHub Repo")
 * [*See more...*](https://github.com/stars/RiskyMH/lists/my-projects "See more of my projects!")
 
 ### Tools:

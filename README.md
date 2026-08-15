@@ -2,8 +2,8 @@
 I am [**RiskyMH**](https://riskymh.dev) and I open source most of my code, below is some of them:
 
 ### Projects: 
-* [**EmailThing**](https://emailthing.app/home): A web app for receiving and sending your emails! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/EmailThing "GitHub Repo")
 * [**Honeypot**](https://honeypot.riskymh.dev): A discord bot which bans people that message in its channel! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/honeypot "GitHub Repo")
+* [**EmailThing**](https://emailthing.app/home): A web app for receiving and sending your emails! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/EmailThing "GitHub Repo")
 * [**RiskyBOT**](https://bot.riskymh.dev): A random bot that uses Discord HTTP-Interactions to be fun! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/RiskyBOT "GitHub Repo")
 * [**Website**](https://riskymh.dev): A simple custom generated website with my links! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/Website "GitHub Repo")
 * [**Forms**](https://github.com/RiskyMH/Forms): A random form site! [<kbd><img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14"></kbd>](https://github.com/RiskyMH/Forms "GitHub Repo")
